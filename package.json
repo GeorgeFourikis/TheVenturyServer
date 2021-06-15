@@ -1,0 +1,15 @@
+{
+  "name": "challenge-backend",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "author": "George Fourikis <georgefourikis@hotmail.gr>",
+  "license": "ISC",
+  "dependencies": {
+    "fastify": "^3.17.0",
+    "fastify-cors": "^6.0.1"
+  }
+}
